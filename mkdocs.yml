@@ -1,1 +1,35 @@
-site_name: My Docs
+site_name: Meus Tutoriais
+site_url: "https://dpanegassi.github.io/mkdocs/"
+
+
+theme:
+  name: material
+  palette:
+    primary: blue grey
+    accent: blue
+  font:
+    code: Roboto Mono
+  favicon: images/favicon.png
+  features:
+    - tabs
+    - instant
+
+    
+markdown_extensions:
+  - admonition
+  - pymdownx.tabbed
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:  # better code, instead of CodeHilite
+      #linenums:          true
+      linenums_style: pymdownx-inline
+      use_pygments: true
+  - pymdownx.inlinehilite # like codehilite but inline
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+# Arvore de Paǵinas
+nav:
+  - Home:
+    - Sobre: index.md
