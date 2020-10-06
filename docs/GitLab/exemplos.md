@@ -23,10 +23,10 @@
 Use `![texto](link)`
 
 !!! example "Exemplo"
-    `![Logo Amparo](https://www.amparo.sp.gov.br/Content/img/amparo-azul.png)`
+    `![Logo Google](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)`
 
 !!! done "Resultado"
-    ![Logo Amparo](https://www.amparo.sp.gov.br/Content/img/amparo-azul.png)
+    ![Logo Google](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)
 
 ## Adicionando links
 
