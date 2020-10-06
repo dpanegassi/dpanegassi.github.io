@@ -33,10 +33,10 @@ Use `![texto](link)`
 Use `[texto](link)`
 
 !!! example "Exemplo"
-    `[Site Amparo](https://www.amparo.sp.gov.br)`
+    `[Site Google](https://www.google.com)`
 
 !!! done "Resultado"
-    [Site Amparo](https://www.amparo.sp.gov.br)
+    [Site Google](https://www.google.com)
 
 ## Bloco de código
 
